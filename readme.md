@@ -8,7 +8,3 @@
 * sockets
 * bcmath
 * mysqli
-
-## Docker-compose
-
-Uses nginx as a proxy to php-apache
